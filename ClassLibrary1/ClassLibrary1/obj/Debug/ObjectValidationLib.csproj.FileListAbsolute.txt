@@ -1,0 +1,6 @@
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ObjectValidationLib.dll
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ObjectValidationLib.pdb
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ObjectValidationLib.csprojAssemblyReference.cache
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ObjectValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ObjectValidationLib.dll
+C:\Users\320168199\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ObjectValidationLib.pdb
